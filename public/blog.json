@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Understanding User-Centered Design",
+    "cover_image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "author": {
+      "name": "Sanjana Ayshi",
+      "picture": "https://images.unsplash.com/photo-1499557354967-2b2d8910bcca?q=80&w=3436&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    "tags": ["UX Design", "User Research", "UI/UX"],
+    "date_published": "2024-10-23",
+    "read_time": "6 min"
+  },
+  {
+    "id": 2,
+    "title": "A Guide to Minimalist Web Design",
+    "cover_image": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "author": {
+      "name": "John Doe",
+      "picture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=3569&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    "tags": ["Web Design", "Minimalism", "UI Trends"],
+    "date_published": "2024-09-30",
+    "read_time": "4 min"
+  },
+  {
+    "id": 3,
+    "title": "Creating Effective Landing Pages",
+    "cover_image": "https://images.unsplash.com/photo-1512758017271-d7b84c2113f1?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "author": {
+      "name": "Emma Watson",
+      "picture": "https://images.unsplash.com/photo-1502323777036-f29e3972d82f?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    "tags": ["Landing Page", "Conversion", "UI/UX"],
+    "date_published": "2024-08-15",
+    "read_time": "8 min"
+  }
+]
